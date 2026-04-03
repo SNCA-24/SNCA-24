@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @SNCA-24
-- 👀 I’m interested in AI & ML / Data Science 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI & ML
-- 📫 How to reach me at my email
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Not Sure  
+I’m Sai Naga Chaithanya Aavula (Naga in short).
+
+About Myself : 
+- I’m an Applied AI/ML engineer with strong data foundations, focused on end-to-end ML systems, search/ranking workflows, and data-intensive platforms.
+- MS in AI @ UNT
+- Targeting MLE / DE / DS roles
+- Focus: ML systems, data platforms, ranking/search, LLM-enabled systems
+
+Core Skills : 
+- Python, SQL, pandas
+- ML / experimentation
+- System Design / Production Learning
 
 <!---
 NC-UNT24/NC-UNT24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
