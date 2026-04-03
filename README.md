@@ -1,7 +1,7 @@
 Hi, I’m Sai Naga Chaithanya Aavula (Naga).
 
 About :
-Applied AI/ML engineer with strong data foundations, focused on end-to-end ML systems, search/ranking workflows, and data-intensive platforms.
+- Applied AI/ML engineer with strong data foundations, focused on end-to-end ML systems, search/ranking workflows, and data-intensive platforms.
 - MS in Artificial Intelligence, University of North Texas
 - Target roles: Machine Learning Engineer, Data Engineer, Data Scientist
 - Current focus: ML systems, data platforms, ranking/search, and LLM-enabled systems
